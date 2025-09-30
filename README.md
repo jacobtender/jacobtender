@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Jacob Tender
 
-I'm a software developer and writer living in Ohio. My interests surround metadata and archival projects. 
+I'm a software developer and writer living in Ohio. My interests mainly surround metadata and archival projects. 
 
 I have a [website](https://jacobtender.net/) detailing many of them.
 
