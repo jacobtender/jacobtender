@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jacobtender&show_icons=true&theme=codeSTACKr&rank_icon=percentile" />
+<!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jacobtender&show_icons=true&theme=codeSTACKr&rank_icon=percentile" /> -->
 
 <!--![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobtender&show_icons=true&theme=codeSTACKr&rank_icon=percentile)-->
 
